@@ -1,7 +1,10 @@
 ;;; avdl-mode.el --- AVDL mode for editing Avro Descriptor Language files.
 
+;; Copyright (C) 2013-2021 emacs-avro contributors
+
 ;; Author:     2013 Neal Sidhwaney
-;;             2020 Luis Osa
+;; Maintainer: 2021 Luis Osa
+;; License: Apache-2.0
 
 (require 'cc-mode)
 
